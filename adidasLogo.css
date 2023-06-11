@@ -1,0 +1,28 @@
+body{
+    padding-left: 45%;
+    padding-top: 15%;
+}
+.logo{
+    height: 120px;
+    overflow: hidden;
+    position: relative;
+}
+.adidas{
+    width: 46px;
+    height: 150px;
+    background-color: black;
+    position: absolute;
+    transform: rotate(-31deg);
+}
+.a1 {
+    top: 86px;
+    left: 36px;
+}
+.a2 {
+    top: 45px;
+    left: 82px;
+}
+.a3 {
+    top: 4px;
+    left: 128px;
+}
